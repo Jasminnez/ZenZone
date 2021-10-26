@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+    --bg: linear-gradient(to right, rgba(72, 116, 155), rgba(40, 63, 82));
+    --search-box:'#3A5D7B';
+    --add-btn: '#B56D2A';
+    --edit-btn: '#5E7ED9';
+    --cancel-btn: '#878686';
+    --card-first: '#395B78';
+    --card-second: '#324F69';
+    --card-third: '#2A4155';
+    --popup: '#2D475E';
+    --font-first: '#FFFFFF';
+    --font-second: rgba(209, 213, 219, var(--tw-text-opacity));
+}
